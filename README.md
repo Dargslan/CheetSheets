@@ -1,74 +1,55 @@
-# Free IT Cheat Sheets
+# Dargslan IT Cheat Sheets
 
-Download **196 professional quick reference guides** as free PDF downloads for **Linux, Docker, Git, Python, networking, cybersecurity, cloud, DevOps, and more**.
+[![Website](https://img.shields.io/badge/Website-dargslan.com-orange)](https://dargslan.com)
+[![Cheat Sheets](https://img.shields.io/badge/Cheat%20Sheets-263%2B-blue)](https://dargslan.com/cheat-sheets)
+[![Books](https://img.shields.io/badge/eBooks-210%2B-green)](https://dargslan.com/books)
 
-## Overview
+Free, professional IT cheat sheets covering Linux, cybersecurity, DevOps, cloud, databases, programming, and more.
 
-The **Dargslan Cheat Sheet Library** is a growing collection of practical IT and developer reference guides designed for fast lookup during real work.
+Every cheat sheet is a concise, printable reference. For full guides with detailed explanations and examples, visit [dargslan.com](https://dargslan.com).
 
-These cheat sheets are useful for:
+## Categories
 
-- Developers
-- System administrators
-- DevOps engineers
-- Cloud professionals
-- Cybersecurity learners
-- IT students
+| Category | Cheat Sheets | Browse |
+|---|---|---|
+| [Career & Certification](./career) | 6 | [View](./career/README.md) |
+| [Cloud (AWS, Azure)](./cloud) | 8 | [View](./cloud/README.md) |
+| [Cybersecurity](./cybersecurity) | 17 | [View](./cybersecurity/README.md) |
+| [Data & AI](./data-and-ai) | 3 | [View](./data-and-ai/README.md) |
+| [Databases](./databases) | 17 | [View](./databases/README.md) |
+| [DevOps & Infrastructure](./devops) | 61 | [View](./devops/README.md) |
+| [Linux System Administration](./linux-administration) | 16 | [View](./linux-administration/README.md) |
+| [Linux Basics & Fundamentals](./linux-basics) | 67 | [View](./linux-basics/README.md) |
+| [Linux Security & Hardening](./linux-security) | 8 | [View](./linux-security/README.md) |
+| [Linux Server Management](./linux-servers) | 5 | [View](./linux-servers/README.md) |
+| [Other](./other) | 4 | [View](./other/README.md) |
+| [Programming Languages](./programming) | 28 | [View](./programming/README.md) |
+| [Web Development](./web-development) | 4 | [View](./web-development/README.md) |
+| [Windows & PowerShell](./windows) | 19 | [View](./windows/README.md) |
 
-Whether you are troubleshooting a Linux server, working with Docker containers, reviewing Git commands, or learning Python fundamentals, these quick references help you find the essentials faster.
+## How to Use
 
-## What You’ll Find
+1. **Browse by category** — Click any folder above
+2. **View a cheat sheet** — Each `.md` file is a standalone reference
+3. **Download PDFs** — Links to printable PDF versions on dargslan.com
+4. **Star this repo** — Stay updated when new cheat sheets are added
 
-The library includes cheat sheets across topics such as:
+## Full Resources
 
-- Linux commands and administration
-- Docker and Kubernetes
-- Git and version control
-- Python essentials
-- Networking and troubleshooting
-- Cybersecurity fundamentals
-- Cloud and DevOps tools
-- Automation and infrastructure
+- [All Cheat Sheets (with PDF downloads)](https://dargslan.com/cheat-sheets)
+- [IT Blog — Tutorials & Guides](https://dargslan.com/blog)
+- [210+ IT eBooks](https://dargslan.com/books)
+- [Free eBooks](https://dargslan.com/free-books)
+- [Linux Commands Hub](https://dargslan.com/linux-commands)
 
-## Why Use These Cheat Sheets
+## Contributing
 
-These PDF guides are designed to be:
+Found an error or want to suggest improvements? Open an issue or submit a pull request.
 
-- Practical and easy to scan
-- Useful during real-world tasks
-- Beginner-friendly but still valuable for professionals
-- Free to download and keep
+## License
 
-## Access the Full Library
-
-Browse and download all cheat sheets here:
-
-[https://dargslan.com/cheat-sheets](https://dargslan.com/cheat-sheets)
-
-## Current Collection
-
-**196 Cheat Sheets**
-
-## Ideal For
-
-This library is useful if you are:
-
-- Learning IT or software development
-- Preparing for certifications
-- Building a home lab
-- Working in DevOps or SysAdmin roles
-- Looking for fast technical references
-
-## Sharing
-
-If you find the library useful, feel free to share it with others who work in IT, development, cloud, or cybersecurity.
-
-## License / Ownership
-
-All cheat sheets and content belong to **Dargslan** unless stated otherwise.
+These cheat sheets are provided for personal and educational use. For commercial licensing, contact us at [dargslan.com](https://dargslan.com).
 
 ---
 
-**Free IT Cheat Sheets**  
-196 professional quick reference guides  
-[https://dargslan.com/cheat-sheets](https://dargslan.com/cheat-sheets)
+*Made with care by [Dargslan](https://dargslan.com) — Your IT Knowledge Hub*
